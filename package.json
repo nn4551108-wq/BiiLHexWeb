@@ -1,0 +1,9 @@
+{
+  "name": "biilhex-studio",
+  "version": "1.0.0",
+  "description": "BiiLHex Studio — fullstack creator workspace (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
